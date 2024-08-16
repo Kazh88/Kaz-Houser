@@ -10,3 +10,6 @@ SELECT year, market_cap, revenue, earnings, eps FROM financial_statements;
 SELECT * FROM financial_statements;
 SELECT year, cash_on_hand FROM financial_statements;
 SELECT * FROM financial_statements;
+
+/* Between the years 2010-2022, McDonald's had the toughest time financially, but it was overshadowed by high market caps, revenues, and earnings. Possible factors may include
+the pandemic (2020-2022) and trying to execute new ideas in order to increase sales (i.e. adding healthier options, all-day breakfast, etc.)*/

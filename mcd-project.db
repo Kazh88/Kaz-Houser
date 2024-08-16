@@ -1,0 +1,12 @@
+SELECT year, revenue, net_assets, total_assets, total_debt, total_liabilities FROM financial_statements ORDER BY year ASC;
+SELECT year, total_liabilities FROM financial_statements ORDER BY total_liabilities DESC;
+SELECT year, net_assets, total_assets FROM financial_statements ORDER BY net_assets DESC;
+SELECT year, total_debt FROM financial_statements ORDER BY total_debt DESC;
+SELECT year, revenue FROM financial_statements ORDER BY revenue DESC;
+SELECT * FROM financial_statements;
+SELECT year, earnings, eps FROM financial_statements ORDER BY earnings DESC;
+SELECT * FROM financial_statements;
+SELECT year, market_cap, revenue, earnings, eps FROM financial_statements;
+SELECT * FROM financial_statements;
+SELECT year, cash_on_hand FROM financial_statements;
+SELECT * FROM financial_statements;

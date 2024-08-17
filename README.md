@@ -2,9 +2,9 @@
 
 MY name is Kazmin (Kaz for short). I am a self-taught data analyst in the making from Rochester, NY.
 
-Some Interesting Facts About Me
+Some Interesting Facts About Me🌟
 
-. Loves science, math, and reading books
+. Love science, math, and reading books
 
 . Looking to transition from working in fast food to becoming a data analyst
 

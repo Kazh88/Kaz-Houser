@@ -1,0 +1,5 @@
+SELECT *
+  FROM star_info;
+SELECT star_id, temperature, spectral_class 
+    FROM star_info
+    LIMIT 100;

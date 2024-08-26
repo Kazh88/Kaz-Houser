@@ -6,3 +6,8 @@ SELECT star_id, temperature, spectral_class
 SELECT star_id, temperature, spectral_class
     FROM star_info
     LIMIT 30;
+
+/* Based on the first 100 results, majority of stars are considered main-sequence stars, luminating one of these three colors: blue-white, yellow-white, or orange-red. 
+Barnard's Star is the most common star on the list with a temperature of approximately 3,100 Kelvin and is considered an orange-red main-sequence star in
+its spectral class (this star is the second closest star system to our Sun). On the other hand, Acrux is the rarest star on the list with the highest temperature 
+of them all at about 28,000 Kelvin. This star is considered a blue-white subgiant in its spectral class. */

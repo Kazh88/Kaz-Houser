@@ -20,3 +20,7 @@ SELECT AVG(eating_disorders)
 SELECT entity, year, depressive_disorders, anxiety_disorders
     FROM disorders
     WHERE entity = 'United States';
+/* From 1990 to 2019, the United States saw a huge prevalence in anxiety and depressive disorders. Although both have
+flucuated in numbers over the years, they have remained relatively high with an average of 5.73% per population
+(anxiety) and 4.70% per population (depression). In today's numbers, this would mean that an estimate of
+19,310,100 people suffered from anxiety and 15,839,000 people suffered from depression during the years mentioned earlier.*/

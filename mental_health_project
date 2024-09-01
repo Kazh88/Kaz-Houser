@@ -1,0 +1,22 @@
+SELECT *
+  FROM disorders;
+SELECT * FROM disorders
+    WHERE entity = 'United States';
+SELECT AVG(anxiety_disorders)
+    FROM disorders
+    WHERE entity = 'United States';
+SELECT AVG(depressive_disorders)
+    FROM disorders
+    WHERE entity = 'United States';
+SELECT AVG(schizophrenia_disorders)
+    FROM disorders
+    WHERE entity = 'United States';
+SELECT AVG(bipolar_disorders)
+    FROM disorders
+    WHERE entity = 'United States';
+SELECT AVG(eating_disorders)
+    FROM disorders
+    WHERE entity = 'United States';
+SELECT entity, year, depressive_disorders, anxiety_disorders
+    FROM disorders
+    WHERE entity = 'United States';
